@@ -1,0 +1,21 @@
+.navbar {
+  width: 100%;
+  background: red;
+  color: white;
+  font-size: 24px;
+  padding: 15px 0;
+  border-radius: 5px;
+  box-shadow: 10px 10px 8px #888888;
+  position: fixed;
+  z-index: 99;
+}
+
+.leftItem,
+.rightItem {
+  width: 25%;
+  text-align: center;
+}
+
+.centerItem {
+  width: 50%;
+}
